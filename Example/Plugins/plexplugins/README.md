@@ -1,3 +1,3 @@
 ## PlexPlugins!
 
-<iframe>http://plexgames.de/</iframe>
+<iframe src="plexgames.de/index.html"></iframe>
