@@ -21,7 +21,7 @@ class Main extends PluginBase implements Listener{
 ```
 
 <br><br>
-*plugin.yml*
+**plugin.yml**
 ```yaml
 name: Example
 version: 1.0
